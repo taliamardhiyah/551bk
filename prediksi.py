@@ -14,8 +14,8 @@ history = []
 bet_history = []
 
 # Menyiapkan bot Telegram
-TOKEN = '6844953276:AAErhm-a67gCEF70aum5KjcLlfNlb8-_CHs'
-CHAT_IDS = ['-1002220890884', '-1001651360411']  # Ganti dengan ID grup Telegram
+TOKEN = '6668826178:AAE6oKYrvB2HX6_rlxtYW30F2ZjL6UZU1-U'
+CHAT_IDS = ['-1004052064216', '-1002153469132']  # Ganti dengan ID grup Telegram
 bot = Bot(token=TOKEN)
 
 # Fungsi untuk mendapatkan timestamp
